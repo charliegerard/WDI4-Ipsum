@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+	font-family: Courier New;
+}
+
+#gihub-banner{
+	max-width: 100%;
+}
+
+#container {
+	max-width: 90%;
+	min-height: 100%;
+	height: auto !important;
+	/*height: 100%;*/
+	margin: 0 auto -6.5em;
+}
+
+#container h1{
+	font-family: 'PT Mono';
+	text-align: center;
+	padding: 3%;
+}
+
+#container p{
+	padding-bottom: 2%;
+}
+
+#button{
+	font-family: Courier New;
+	padding: 0.3%;
+	margin-bottom: 2%;
+}
+
+#ipsum{
+	padding: 2% 0 3% 0; 
+	font-size: 1em;
+}
+
+#social{
+	display: block;
+	width: 100%;
+	margin: 1% auto;
+	height: auto;
+	text-align: center;
+}
+
+#twitter{
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+}
+
+#github{
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+}
+
+#footer #thanks{
+	width: 100%;
+	text-align: center;
+}
+
+#thanks p{
+	font-size: 11px;
+	margin-bottom: 1%;
+}
+
+#footer, #push {
+	height: 4em;
+}
+
+#footer2{
+	background-color: black;
+	height: 3em;
+	bottom: 0;
+}
+
+#footer2 p{
+	color: lawngreen;
+	text-align: center;
+	padding-top: 1%;
+	font-size: 12px;
+}
