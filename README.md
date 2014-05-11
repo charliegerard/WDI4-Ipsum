@@ -18,9 +18,9 @@ The user can input the number of paragraphs needed from 1 to 99.
 
 ###TODO:
 
-- Probably add more phrases considering the course is not finished yet ;)
-- Refactor.
-- Add a "copy to clipboard" functionality using ZeroClipboard.
-- Add more details to this README file cause it looks like shit right now.
+[] Probably add more phrases considering the course is not finished yet ;)
+[] Refactor.
+[] Add a "copy to clipboard" functionality using ZeroClipboard.
+[] Add more details to this README file cause it looks like shit right now.
 
 
