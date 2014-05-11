@@ -1,5 +1,4 @@
 #WDI Ipsum
----
 
 ##A Lorem Ipsum generator using phrases from the General Assembly WDI4 class.
 
