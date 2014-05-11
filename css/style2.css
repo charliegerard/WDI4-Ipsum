@@ -60,6 +60,10 @@ html, body {
 	text-align: center;
 }
 
+#tweet{
+	display: inline-block;
+}
+
 #footer #thanks{
 	width: 100%;
 	text-align: center;
